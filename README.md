@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on JavaScript, React Js Projects
 - 📫 How to reach me - https://github.com/RaviDangwal
-- email id - ravidangwal8@gmail.com
+- 📫 Email id - ravidangwal8@gmail.com
 
 <!---
 RaviDangwal/RaviDangwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
